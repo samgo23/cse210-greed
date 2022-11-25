@@ -14,7 +14,7 @@ class Artifact(Actor):
     
     
     def calculate_points(self):
-        """Calculates user point total.
+        """Calculates user point total
         
         """
 
